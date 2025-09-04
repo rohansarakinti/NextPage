@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/22150431/README.md)
 # 📚 Book Recommender System  
 
 A machine learning project to recommend books using **semantic similarity** over descriptions.  
